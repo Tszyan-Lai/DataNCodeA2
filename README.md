@@ -1,5 +1,5 @@
 # Working With Data and Code A2
-## Code Ethernal
+## Code Ethereal
 > This is a creative coding project that uses the Python-based platform TunePad to recreate the SEVENTEEN fan song "Thank you for being born." The project explores the intersection of music and code, aiming to make music creation more accessible.
 
 ## Table of Contents
