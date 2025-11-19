@@ -1,10 +1,9 @@
 # DataNCodeA2
-##Code Ethernal
+## Code Ethernal
 > This is a creative coding project that uses the Python-based platform TunePad to recreate the SEVENTEEN fan song "Thank you for being born." The project explores the intersection of music and code, aiming to make music creation more accessible.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Setup](#setup)
 * [Acknowledgements](#acknowledgements)
@@ -23,14 +22,14 @@ List the ready features here:
 
 
 ## Setup
-Navigate to the TunePad website in your web browser. The main site is [here](https://tunepad.com).
+Download the JSON file to your laptop. Navigate to the [TunePad website](https://tunepad.com) in your web browser. Import the JSON file to TunePad to access.
+
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by Seventeen's Woozi. 
 - This project was based on [this song](https://youtu.be/Ar5-Yitahp8?si=jui3Jhk9yDy81gAe) and [this piano cover](https://youtu.be/zl-THt0PWMA?si=2HkurEYKltK1XLzQ).
 
