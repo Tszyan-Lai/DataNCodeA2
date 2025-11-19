@@ -10,24 +10,16 @@
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
-
 ## General Information
 The project intends to break down barriers to music creation. Its primary purpose is to demonstrate that music-making can be approachable and playful, especially for beginners and non-musicians, by using coding as an alternative and accessible creative tool. I undertook this project to step into a creative space beyond just being a listener. I wanted to contribute artistically by using code as a means of creative expression and to engage with the music of SEVENTEEN in a new, interactive way as a fan.
 
 ## Features
-List the ready features here:
 - New Chords added
 - Drums added
 - Guitar added
 
-
 ## Setup
 Download the JSON file to your laptop. Navigate to the [TunePad website](https://tunepad.com) in your web browser. Import the JSON file to TunePad to access.
-
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
 
 ## Acknowledgements
 - This project was inspired by Seventeen's Woozi. 
@@ -35,4 +27,4 @@ Proceed to describe how to install / setup one's local environment / get started
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Tsz Yan Lai - feel free to contact me!
